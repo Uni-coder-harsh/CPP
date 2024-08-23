@@ -33,11 +33,11 @@ To contact with author you could connect to various platforms
    -[G-mail](harsh06264@gmail.com)
 
 2. **Linkedin**
-   LinkedIn is a business and employment-focused social media platform that works through websites and mobile apps.
+   LinkedIn  a business and employment-focused social media platform.
    -[Linkedin](www.linkedin.com/in/harsh-rajput-530b31313)
 
 3. **Github**
-   GitHub is a widely recognized platform that provides developers with a cloud-based hub to store, manage, and track changes in their code.
+   GitHub is a widely recognized platform that store, manage, and track changes in code.
    -[Github](https://github.com/Uni-coder-harsh)
 
 ---
