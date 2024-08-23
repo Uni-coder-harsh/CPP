@@ -27,20 +27,19 @@ Feel free to follow along and reach out if you have any questions or need furthe
 
 ## Contact
 
-To contact with author you could connect to various platforms
+To contact the author, you can connect on various platforms:
 
-1. **Email**
-   -[G-mail](harsh06264@gmail.com)
+1. **Email**  
+   - [Gmail](mailto:harsh06264@gmail.com)
 
-2. **Linkedin**
-   LinkedIn  a business and employment-focused social media platform.
-   -[Linkedin](www.linkedin.com/in/harsh-rajput-530b31313)
+2. **LinkedIn**  
+   LinkedIn is a business and employment-focused social media platform.  
+   - [LinkedIn Profile](https://www.linkedin.com/in/harsh-rajput-530b31313)
 
-3. **Github**
-   GitHub is a widely recognized platform that store, manage, and track changes in code.
-   -[Github](https://github.com/Uni-coder-harsh)
+3. **GitHub**  
+   GitHub is a widely recognized platform to store, manage, and track changes in code.  
+   - [GitHub Profile](https://github.com/Uni-coder-harsh)
 
 ---
 
 Happy Coding!
-
