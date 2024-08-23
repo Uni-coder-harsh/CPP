@@ -25,6 +25,21 @@ To follow along with the tutorials, you will need to have the following software
 This repository and tutorial series are created by **Harsh**.  
 Feel free to follow along and reach out if you have any questions or need further assistance!
 
+## Contact
+
+To contact with author you could connect to various platforms
+
+1. **Email**
+   -[G-mail](harsh06264@gmail.com)
+
+2. **Linkedin**
+   LinkedIn is a business and employment-focused social media platform that works through websites and mobile apps.
+   -[Linkedin](www.linkedin.com/in/harsh-rajput-530b31313)
+
+3. **Github**
+   GitHub is a widely recognized platform that provides developers with a cloud-based hub to store, manage, and track changes in their code.
+   -[Github](https://github.com/Uni-coder-harsh)
+
 ---
 
 Happy Coding!
