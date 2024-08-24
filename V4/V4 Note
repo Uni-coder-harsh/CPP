@@ -1,0 +1,61 @@
+VAIRIABLE
+-A variable is a container to hold data
+-Variable can be of various types . primarily we have 
+@ int 1,2...
+@ float 1.2,2.11,3.54 ...
+@ char 'a','db'.....
+@ double 1.234242424232 ,3.14525263253 ...
+@ Boolean  True=1/False=0
+
+- **int sum=34;**  means sum is a integer variable which holds value 34 in memory
+
+
+SYNTAX FOR DECLARING VARIABLES IN C++
+-**Data_type Variable_name=Value;**
+-Example = **int a=4,b=6;**
+Based on Scope , variable can by classified into 2 types
+1. Local Variable
+2. Global variable
+
+VARIABLE SCOPE
+-Scope of a variable is the region in code where the excistence of variable is valid
+-**LOCAL VARIABLES :** local variable are declared inside the braces of any function and can be accessed only from there
+-**GLOBAL VARIABLE :** globale variable are declares outside any function and can be accessed from anywhere 
+-**can global variable and local variable have same name in C++** - yes 
+
+**C++ DATA TYPES**
+-data types define the type of data a variable can hold , for examle an integer variable can  hold integer data, character type can hold character data
+-Data types in C++ are categorised in 3 types 
+1. **Built-in**
+2. **User-defined**
+3. **Derived**
+
+
+ **Built-in**
+@ int 1,2...
+@ float 1.2,2.11,3.54 ... decimal of low precision
+@ char 'a','db'.....
+@ double 1.234242424232 ,3.14525263253 ... decimal of high precision
+@ Boolean  True/False
+
+
+**User-defined**
+-Struct
+-Union
+-Enum
+
+
+**Derived**
+-Array
+-Function
+-Pointer
+
+
+
+RULES TO DECLARE VARIABLE NAME IN C++
+-variable names in c++ can range from 1 to 255 characters . 
+-all variable names must begin with a letter of the alphabet or an an underscore(_)
+-after the first initial letter ,variable names can also contain letters and numbers
+-variable names are case senstive.
+-no spaces or special character are allowed.
+-you cannot use a C++ keyword as a varible name.
