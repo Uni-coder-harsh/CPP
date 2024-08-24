@@ -1,5 +1,0 @@
-**Basic Imput/Output**
--C++ comes with libraries which help us in performing input/output. In C++ sequence of bytes corresponding to input and output are commonly known as **streams .**
--**Input Stream :** Direcction pf flow of bytes takes place from input devices 
--**Output Stream:** Direction of flow of bytes take place from main memory to the output device
-
