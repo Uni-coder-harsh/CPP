@@ -12,8 +12,7 @@ int a,b ;
     cout<<"enter the value of nSecond : \n";
     cin>>b;
 
-cout<<"Operators in C++ :"<<endl  ;
-
+cout<<"Operators in C++ :"<<endl  ;  
 cout<<"Following are the types of operators in C++"<<endl  ;
 cout<<endl;
 
