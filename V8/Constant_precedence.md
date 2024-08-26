@@ -1,4 +1,3 @@
-
 # C++ Programming Notes
 
 ## 1. Constants in C++
