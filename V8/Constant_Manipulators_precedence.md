@@ -101,4 +101,3 @@ int main() {
 - In the second example, multiplication has higher precedence than addition, so it is evaluated first.
 
 By understanding constants, manipulators, and operator precedence and associativity, you can write more accurate and efficient C++ programs.
-```
