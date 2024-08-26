@@ -1,6 +1,6 @@
 
 
-```markdown
+
 # C++ Control Structures
 
 Control structures in C++ determine the flow of control in a program. They are categorized into three main types: sequence structure, selection structure, and loop structure. These are considered basic control structures that dictate how the program's instructions are executed.
