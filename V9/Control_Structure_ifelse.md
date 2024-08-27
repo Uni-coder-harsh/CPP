@@ -69,46 +69,6 @@ This is the most basic control structure where each line of code is executed seq
    }
    ```
 
-## 3. Loop Structure
-
-- **Definition**: Loop structures are used to execute a block of code repeatedly based on a condition.
-- **Model**: 
-  ```
-  Entry ---> Condition Check ---> True ---> Action ---> Repeat
-                      |
-                     False
-                      |
-                     Exit
-  ```
-
-### Common Loop Structures in C++:
-
-- **For Loop**: Repeats a block of code a specific number of times.
-
-   ```cpp
-   for (int i = 0; i < 5; i++) {
-       cout << i << " ";
-   }
-   ```
-
-- **While Loop**: Repeats a block of code as long as a specified condition is true.
-
-   ```cpp
-   while (i < 5) {
-       cout << i << " ";
-       i++;
-   }
-   ```
-
-- **Do-While Loop**: Executes a block of code at least once and then repeats it as long as a specified condition is true.
-
-   ```cpp
-   do {
-       cout << i << " ";
-       i++;
-   } while (i < 5);
-   ```
-
 ### Summary
 
 Understanding control structures is essential for writing efficient and logical programs in C++. They help in making decisions and executing code blocks based on certain conditions, which allows for more dynamic and interactive programming.
