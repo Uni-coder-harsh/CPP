@@ -23,12 +23,19 @@ for(initialization ; condition ; updation)
 
    ```cpp
    for (int i = 0; i < 5; i++) {
-       cout << i << " ";
+       cout << i << endl;
    }
    ```
 
 
 - **While Loop**: Repeats a block of code as long as a specified condition is true.
+
+```cpp
+    while(condition);
+    {
+        C++ statements
+    }
+    ```
 
    ```cpp
    while (i < 5) {
@@ -39,6 +46,13 @@ for(initialization ; condition ; updation)
 
 - **Do-While Loop**: Executes a block of code at least once and then repeats it as long as a specified condition is true.
 
+    ```cpp
+    do
+    {
+        c++ statements;
+    }while(condition);
+    ```
+    
    ```cpp
    do {
        cout << i << " ";
