@@ -1,3 +1,6 @@
+
+
+```markdown
 ## 3. Loop Structure
 
 - **Definition**: Loop structures are used to execute a block of code repeatedly based on a condition.
@@ -14,48 +17,59 @@
 
 - **For Loop**: Repeats a block of code a specific number of times.
 
-```cpp
-for(initialization ; condition ; updation)
-{
-    loop body(c++ code)
-}
-```
+  **Syntax**:
+  ```cpp
+  for (initialization; condition; updation) {
+      // loop body (C++ code)
+  }
+  ```
 
-   ```cpp
-   for (int i = 0; i < 5; i++) {
-       cout << i << endl;
-   }
-   ```
-
+  **Example**:
+  ```cpp
+  for (int i = 0; i < 5; i++) {
+      cout << i << endl;
+  }
+  ```
 
 - **While Loop**: Repeats a block of code as long as a specified condition is true.
 
-```cpp
-    while(condition);
-    {
-        C++ statements
-    }
-    ```
+  **Syntax**:
+  ```cpp
+  while (condition) {
+      // C++ statements
+  }
+  ```
 
-   ```cpp
-   while (i < 5) {
-       cout << i << " ";
-       i++;
-   }
-   ```
+  **Example**:
+  ```cpp
+  int i = 0;
+  while (i < 5) {
+      cout << i << " ";
+      i++;
+  }
+  ```
 
 - **Do-While Loop**: Executes a block of code at least once and then repeats it as long as a specified condition is true.
 
-    ```cpp
-    do
-    {
-        c++ statements;
-    }while(condition);
-    ```
-    
-   ```cpp
-   do {
-       cout << i << " ";
-       i++;
-   } while (i < 5);
-   ```
+  **Syntax**:
+  ```cpp
+  do {
+      // C++ statements
+  } while (condition);
+  ```
+
+  **Example**:
+  ```cpp
+  int i = 0;
+  do {
+      cout << i << " ";
+      i++;
+  } while (i < 5);
+  ```
+```
+
+### Key Points:
+1. **For Loop**: Used when the number of iterations is known beforehand.
+2. **While Loop**: Ideal when the number of iterations is not known and depends on a condition.
+3. **Do-While Loop**: Similar to a while loop, but guarantees the loop body will execute at least once, even if the condition is false initially.
+
