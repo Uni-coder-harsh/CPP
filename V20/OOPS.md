@@ -11,3 +11,4 @@ decomposes the problem in object and build data and function around the objects
 consists of , main focus is on .
 function can be local and global .
 data moves openly from function to function 
+main focus is on function and not on flow of data 
