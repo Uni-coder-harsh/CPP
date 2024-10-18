@@ -1,7 +1,8 @@
 #include<iostream>
 using namespace std ;
 int main(){
-    int sum= 45;
-    cout<<"Holla Ser "<< sum ;
+    int sum;
+    sum=4;
+        cout<<"Holla Ser "<< sum ;
     return 0 ;
 }
