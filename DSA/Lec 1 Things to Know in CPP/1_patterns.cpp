@@ -70,6 +70,30 @@ void middle_tri(int a){
     }
     
 }
+void middle_tri(int a){
+    for (int i = 0; i < a; i++)
+    {
+        //space 
+        for (int j=0;j<a-i-1;j++)
+        {
+            cout<<" ";
+        }
+        
+        //star
+        for (int k = 0; k<2*i+1;k++)
+        {
+            cout<<"*";
+        }
+        
+        //space 
+        for (int l=0;l<a-i-1;l++)
+        {
+            cout<<" ";
+        }
+        cout<<endl;
+    }
+    
+}
 int main(){
    /*1. for the outer loop count the number of rows.
    2. for the inner loop focus on the column andd connect them somehow to the rows .
